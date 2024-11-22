@@ -3,4 +3,8 @@
 
 const nuevoString = null;
 
+let newVar = "variable nueva";
+
+nuevoString = "nuevo valor";
+
 module.exports = nuevoString;

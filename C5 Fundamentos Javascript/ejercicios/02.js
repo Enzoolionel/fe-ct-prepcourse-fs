@@ -3,4 +3,8 @@
 
 const nuevoNumero = null;
 
+let newVar = 1;
+
+nuevoNumero = 2;
+
 module.exports = nuevoNumero;

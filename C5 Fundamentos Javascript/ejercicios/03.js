@@ -3,4 +3,8 @@
 
 const nuevoBoolean = null;
 
+let newVar = true;
+
+nuevoBoolean = false;
+
 module.exports = nuevoBoolean;
